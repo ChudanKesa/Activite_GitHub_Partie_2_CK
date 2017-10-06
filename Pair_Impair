@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main(int argc, const char * argv[])
+{
+    int i;
+    
+    for(i=0; i<10; i++)
+    {
+        printf("%d\n", i);
+        if(i%2 != 0)
+        {
+            printf("Nombre impair.\n");
+        }
+        
+        if(i%2 == 0)
+        {
+            printf("Nombre pair.\n");
+        }
+    }
+    
+    return 0;
+}
