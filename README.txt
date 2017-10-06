@@ -18,5 +18,5 @@ Nous espérons que vous avez apprécié ce texte de présentation.
 	   ,-----(   • •   )
 	  /       \_     _/
 	 /|         (\  |(
-	^ \   /__\   /\ |
+	^ \   /__\   /\ |	Meuh.
 	   |_|	  |_|- "
